@@ -1,0 +1,13 @@
+.cl2{
+    width: 500px;
+    height: 500px;
+    left: 100px;
+    top: 200px;
+    background-color: red;
+ 
+    position: absolute;
+    border-bottom-right-radius: 250px;
+    border-top-right-radius: 250px;
+    border-bottom-left-radius: 250px;
+    border-top-left-radius: 250px;
+}
